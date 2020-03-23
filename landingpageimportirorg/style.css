@@ -1,0 +1,112 @@
+/* .container-fluid{
+    background-color: rgb(255, 214, 0);
+    width: 100%;
+    justify-content: space-between;
+} */
+
+.left, .right{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.left h2{
+    font-size:50px;
+    font-weight:bold;
+    font-family: 'Anton', sans-serif;
+ }
+
+ .left h6{
+    color:blue;
+ } 
+
+.ytb{
+    margin-top:20px;
+}
+
+.sekat{
+    width:50px;
+    height: 5px;
+    background-color:blue;
+    margin:auto;
+}
+
+.kotak{
+    width: 500px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.tombol{
+    background-color: yellow;
+    margin-top:40px;
+    box-shadow: 0px 10px 23px -6px rgba(0,0,0,0.75);
+    padding-top:10px;
+}
+
+.tombol2{
+    width: 800px;
+    height: 5px;
+    background-color: #FFD700;
+    margin-top:0px;
+}
+
+.tombol3{
+    background-color: #42b99f;
+    margin-top:40px;
+    box-shadow: 0px 10px 23px -6px rgba(0,0,0,0.75);
+    border-radius: 5px;
+}
+
+ .fitur{
+     display: flex;
+     justify-content:space-around;
+ }
+
+ .tulis, .tulis2{
+    font-family: 'Titillium Web', sans-serif;
+ }
+ 
+.gambar1{
+    display: flex;
+    margin-left: 500px;
+}
+
+.judul{
+    margin-top: 20px;
+}
+
+.apa{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:  yellow ;
+    border: 10px solid black;
+}
+
+.tombol4{
+    background-color: #FFD700;
+    margin-top:40px;
+    box-shadow: 0px 10px 23px -6px rgba(0,0,0,0.75);
+    padding-top:10px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ktr ul {
+    display: block;
+    text-decoration: none;
+    margin-left: -20px;
+}
+
+.ktr ul li{
+    display: list-item;
+    list-style-type: none;
+    
+}
+.ktr i{
+    font-weight: 500;
+}
+.video{
+    padding:5px;
+}
+<i class="fas fa-square"></i>
+<i class="fas fa-check-square"></i>

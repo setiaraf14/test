@@ -1,0 +1,87 @@
+.header{
+    background-color: #3b5998;
+    color: white;
+    
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: -10px;
+    height: 82px;
+}
+.judul{
+    margin-top: 25px;
+    font-family: 'Inter', sans-serif;
+}
+
+.form{
+    display: flex;
+    font-size: 15px;
+    padding-bottom: -5px;;
+}
+
+.form1{
+    padding-left: 10px;
+}
+
+.form2{
+    margin-top: 30px;
+    padding-left: 10px;
+}
+
+.tombol{
+    background-color: #3b5998;
+    text-decoration: none;
+    border: solid black 1px;
+    color: white;
+}
+
+.tulisan{
+    padding-top: 50px;
+}
+.main{
+    background: linear-gradient(white, #D3D8E8);
+    display: flex;
+    padding-bottom: 20px;
+}
+
+.left{
+    width: 55%;
+    margin-top: 10px;
+    height: 100%;
+    
+
+}
+
+.right{
+    margin-top: 10px;
+    width: 45%;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.isi{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.inputan select{
+    width: 70px;
+}
+
+.keterangan{
+    margin-top: 30px;
+}
+
+.keterangan p{
+    font-size: 10px;
+}
+
+.right button{
+    padding: 5px 70px 5px 70px;
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+}
